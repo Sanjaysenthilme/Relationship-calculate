@@ -1,0 +1,103 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+.container
+{
+    background-image: url('https://previews.123rf.com/images/phongphan/phongphan1610/phongphan161000039/67482791-pink-heart-shape-marshmallow-for-love-theme-and-valentine-concept-you-can-apply-for-background-backd.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 350px;
+    height: 450px;
+    margin: 0% auto;
+    margin-top: 5%;
+    padding:50px;
+}
+p
+{
+    
+    text-shadow: 4px 4px gray;
+    font-size: 40px ;
+    font-weight: bolder;
+}
+#t1
+{
+    background-color: deeppink;
+    color: white;
+    margin-top: 15%;
+    margin-left: 15%;
+    width: 70%;
+    height: 8%;
+    border-radius: 5px 80px;
+    padding: 2%;
+    text-align: center;
+    font-size: 19px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    outline: none;
+}
+::placeholder
+{
+    color: black;
+}
+#t2
+{
+    background-color: deeppink;
+    color: white;
+    margin-top: 4%;
+    margin-left: 15%;
+    width: 70%;
+    height: 8%;
+    border-radius: 5px 80px;
+    padding: 2%;
+    text-align: center;
+    font-size: 18px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    outline: none;
+}
+::placeholder
+{
+    color: black;
+}
+#b1
+{
+    font-size: 19px;
+    margin-top: 15%;
+    margin-left: 33%;
+    width: 40%;
+    height: 8%;
+    background-color: greenyellow;
+    border-radius: 9px;
+}
+#t3
+{
+    margin-top: 10%;
+    margin-left: 15%;
+    width: 70%;
+    height: 8%;
+    text-align: center;
+    font-size: 19px;
+    background-color: tomato;
+    color: white;
+    border-radius: 5px 80px;
+    border: none;
+    outline: none;
+}
+a{
+    text-decoration: none;
+    
+}
+h2{
+    width: 120px;
+    height: 30px;
+    background: darkslategrey;
+    margin-top: 12%;
+    padding-top: 2%;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+}

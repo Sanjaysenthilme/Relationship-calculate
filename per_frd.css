@@ -1,0 +1,104 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+.container
+{
+    background-image: url('https://www.hindibabu.com/wp-content/uploads/2017/04/motivational-stories-in-hindi.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 350px;
+    height: 450px;
+    margin: 0% auto;
+    margin-top: 5%;
+    padding:50px;
+}
+p
+{
+    color: rgba(152, 251, 197, 0.993);
+    text-shadow: 3px 3px black;
+    font-size: 40px ;
+    font-weight: bolder;
+}
+#t1
+{
+    background-color: rgb(230, 77, 6);
+    color: white ;
+    margin-top: 15%;
+    margin-left: 15%;
+    width: 70%;
+    height: 8%;
+    border-radius: 5px 80px;
+    padding: 2%;
+    text-align: center;
+    font-size: 19px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    outline: none;
+}
+::placeholder
+{
+    color: black;
+}
+#t2
+{
+    background-color: deeppink;
+    color: white;
+    margin-top: 4%;
+    margin-left: 15%;
+    width: 70%;
+    height: 8%;
+    border-radius: 5px 80px;
+    padding: 2%;
+    text-align: center;
+    font-size: 18px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    outline: none;
+}
+::placeholder
+{
+    color: black;
+}
+#b1
+{
+    font-size: 19px;
+    margin-top: 15%;
+    margin-left: 33%;
+    width: 40%;
+    height: 8%;
+    background-color: rgba(231, 47, 255, 0.747);
+    border-radius: 9px;
+}
+#t3
+{
+    margin-top: 10%;
+    margin-left: 15%;
+    width: 70%;
+    height: 8%;
+    text-align: center;
+    font-size: 19px;
+    background-color: tomato;
+    color: white;
+    border-radius: 5px 80px;
+    border: none;
+    outline: none;
+}
+a{
+    text-decoration: none;
+    
+}
+h2{
+    width: 120px;
+    height: 30px;
+    background: darkslategrey;
+    margin-top: 12%;
+    padding-top: 2%;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+}

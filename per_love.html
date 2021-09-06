@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Love percentage Calculation</title>
+        <link rel="stylesheet" href="per_love.css">
+    </head>
+    <body>
+        <script>
+            function press()
+            {
+                let x=Math.random()*100;
+                x=Math.floor(x);
+                document.getElementById('t3').value=x+"%";
+            }
+            press()
+        </script>
+        <div class="container">
+            <p>Check Love Percentage Now</p>
+            <input type="text" placeholder="Enter your Name" id="t1"><br>
+            <input type="text" placeholder="Enter your Lover Name" id="t2"><br>
+            <input type="button" value="Enter Now" id="b1" onclick="press()"><br>
+            <input type="text" placeholder="Show-percentage" id="t3">
+            
+            <a href="index.html"><h2>Go Back</h2></a>
+        </div>
+        
+    </body>
+</html>
